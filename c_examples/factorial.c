@@ -26,7 +26,7 @@ unsigned int factorial_iteration(int n)
   for(i=1; i <= n  ; i++)
   {
     /*result *= i */
-    result=result * i++;
+    result=result * i;
   }
 
   return result;

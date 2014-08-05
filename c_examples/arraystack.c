@@ -66,7 +66,11 @@ int main()
       switch (value) {
       case 1:
          printf("\nEnter The item to be pushed");
-         scanf("%d", &item);
+         if(!scanf("%d", &item))
+         {
+              printf("Invalid input \n");
+              exit(0);
+         }
          if (stfull(top))
             printf("\nStack is Full!");
          else

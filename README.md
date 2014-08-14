@@ -6,4 +6,5 @@ pointerFunc1.c - an easy pointer function example.
 stacklinklist.c - stack, link list implementation. 
 
 
+
 http://karosesblog.blogspot.tw/

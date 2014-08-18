@@ -8,7 +8,8 @@ pointerFunc1.c - an easy pointer function example.
 
 stacklinklist.c - stack, link list implementation. 
 
+queueArray.c - queue (array Implementaion)
 
-
+For more details, please check out my blog
 
 http://karosesblog.blogspot.tw/

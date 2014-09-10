@@ -11,6 +11,7 @@ stacklinklist.c - stack, link list implementation.
 
 queueArray.c - queue (array Implementaion)
 
+binarytree_rec.c - Binary search tree example -Recursion version
 
 ------------------------
 For more details, please check out my blog

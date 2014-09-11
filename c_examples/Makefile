@@ -7,4 +7,8 @@ all: $(PROGS)
 
 %: %.c
 
-	$(CC) -o $@ $< $(CFLAGS) 
+	$(CC) -o $@ $< $(CFLAGS)
+
+clean:
+
+	@rm -f $(PROGS) 
